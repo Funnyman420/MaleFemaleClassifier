@@ -1,5 +1,7 @@
 import pandas as pd
 import seaborn as sns
+import numpy as np
+import unicodedata
 
 def clearMinorities (data):
     toDelete = []
@@ -12,8 +14,10 @@ def clearMinorities (data):
                 toDelete.append(data.index[i])
     return toDelete
 
+def encode(c) : return ord(c) - 785
+def decode(i) : return chr(i + 785)
 
-data = pd.read_csv("Greek_Names.csv")
+data = pd.read_csv("Greek_Names.csv",sep=',')
 del data['isFemale']
 
 data = pd.DataFrame(data.Names.str.split('-').tolist(), index = data.isMale).stack()
@@ -54,10 +58,25 @@ pivot = pd.pivot_table(data, values = 'Frequency', index='Suffix 2', columns='Ge
 
 pivot.reset_index(inplace=True)
 sufvalues2 = pivot.values
- 
 
 suf2 = pd.DataFrame({'Suffix 2' : sufvalues2[:,0],'Female':sufvalues2[:,1],'Male':sufvalues2[:,2]})
 
-suf2.to_csv('suffix2.csv', sep=',')
+list = []
+for s in suf2['Suffix 2']:
+        list.append([encode(c) for c in s])
+#[("%d" % encode(c) for c in s) for s in suf2['Suffix 2']]
 
+print(list)
+#se = pd.Series(list[:])
+#suf2 = suf2.reset_index(drop=True)
+#suf2['ASCII 1'] = se.values
+#print(suf2)
 
+#suf2.to_csv('suffix2.csv', sep=',')
+"""
+pivot = pd.pivot_table(data, values = 'Frequency', index='Suffix 3', columns='Gender', aggfunc='count').fillna(0)
+pivot.reset_index(inplace=True)
+sufvalues3 = pivot.values
+suf3 = pd.DataFrame({'Suffix 3' : sufvalues3[:,0],'Female':sufvalues3[:,1],'Male':sufvalues3[:,2]})
+suf3.to_csv('suffix3.csv', sep=',')
+"""
