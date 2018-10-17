@@ -1,263 +1,263 @@
-,Suffix 2,Female,Male,ASCII 1
-0,ΑΑ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2868E0>
-1,ΑΒ,0.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286200>
-2,ΑΓ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286258>
-3,ΑΔ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286308>
-4,ΑΕ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2863B8>
-5,ΑΖ,2.0,11.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286410>
-6,ΑΗ,9.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286830>
-7,ΑΙ,6.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286468>
-8,ΑΚ,3.0,21.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286780>
-9,ΑΛ,7.0,23.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2864C0>
-10,ΑΜ,6.0,26.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2866D0>
-11,ΑΝ,37.0,187.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286570>
-12,ΑΞ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286A40>
-13,ΑΟ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286620>
-14,ΑΠ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286CA8>
-15,ΑΡ,20.0,36.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286D58>
-16,ΑΣ,10.0,123.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286DB0>
-17,ΑΤ,5.0,20.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286E60>
-18,ΑΥ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286F10>
-19,ΑΦ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286FC0>
-20,ΑΧ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2865C8>
-21,ΒΑ,26.0,8.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286518>
-22,ΒΕ,2.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286150>
-23,ΒΗ,5.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286048>
-24,ΒΙ,1.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196200>
-25,ΒΡ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196F10>
-26,ΒΩ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196150>
-27,ΓΑ,6.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196620>
-28,ΓΓ,2.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196D00>
-29,ΓΔ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196C50>
-30,ΓΕ,9.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196BA0>
-31,ΓΗ,7.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196360>
-32,ΓΙ,0.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1960F8>
-33,ΓΚ,2.0,11.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196EB8>
-34,ΓΟ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1967D8>
-35,ΓΩ,6.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196BF8>
-36,ΔΑ,59.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196888>
-37,ΔΕ,5.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196CA8>
-38,ΔΗ,16.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196D58>
-39,ΔΙ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196938>
-40,ΔΟ,1.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196DB0>
-41,ΔΡ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1968E0>
-42,ΔΩ,7.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196E60>
-43,ΕΑ,31.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196FC0>
-44,ΕΒ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196780>
-45,ΕΓ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1966D0>
-46,ΕΔ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196678>
-47,ΕΖ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196B48>
-48,ΕΗ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196990>
-49,ΕΘ,4.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196A40>
-50,ΕΙ,5.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196AF0>
-51,ΕΚ,2.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1965C8>
-52,ΕΛ,16.0,41.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196410>
-53,ΕΜ,6.0,15.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1960A0>
-54,ΕΝ,27.0,45.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1962B0>
-55,ΕΞ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1969E8>
-56,ΕΟ,0.0,8.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA196308>
-57,ΕΠ,3.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256A40>
-58,ΕΡ,18.0,53.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2562B0>
-59,ΕΣ,3.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2560F8>
-60,ΕΤ,25.0,42.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2564C0>
-61,ΕΥ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256938>
-62,ΕΦ,2.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256200>
-63,ΕΧ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256D58>
-64,ΖΑ,31.0,8.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256E08>
-65,ΖΕ,19.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2563B8>
-66,ΖΗ,7.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256FC0>
-67,ΖΙ,5.0,14.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256F68>
-68,ΖΟ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256DB0>
-69,ΖΩ,3.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256C50>
-70,ΗΑ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256AF0>
-71,ΗΒ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256A98>
-72,ΗΚ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2569E8>
-73,ΗΛ,1.0,37.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256990>
-74,ΗΜ,0.0,16.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256830>
-75,ΗΝ,3.0,8.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2568E0>
-76,ΗΠ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256888>
-77,ΗΡ,1.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256728>
-78,ΗΣ,8.0,382.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256518>
-79,ΗΤ,0.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256468>
-80,ΗΦ,1.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256410>
-81,ΗΧ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256360>
-82,ΗΩ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA256150>
-83,ΘΑ,4.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFF68>
-84,ΘΗ,30.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFD58>
-85,ΘΙ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFE08>
-86,ΘΧ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFBF8>
-87,ΘΩ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFB48>
-88,ΙΑ,616.0,37.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF888>
-89,ΙΒ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF7D8>
-90,ΙΔ,1.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF6D0>
-91,ΙΕ,84.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF5C8>
-92,ΙΖ,3.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF468>
-93,ΙΗ,3.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF1A8>
-94,ΙΙ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF0F8>
-95,ΙΚ,10.0,41.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF8E0>
-96,ΙΛ,3.0,28.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFFC0>
-97,ΙΜ,3.0,64.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFAF0>
-98,ΙΝ,16.0,83.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFE60>
-99,ΙΞ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFD00>
-100,ΙΟ,4.0,41.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFBA0>
-101,ΙΠ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF830>
-102,ΙΡ,3.0,42.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF780>
-103,ΙΣ,24.0,37.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286990>
-104,ΙΤ,5.0,30.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2860A0>
-105,ΙΥ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286888>
-106,ΙΦ,2.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2869E8>
-107,ΙΧ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286D00>
-108,ΙΩ,31.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286BA0>
-109,ΚΑ,125.0,17.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2861A8>
-110,ΚΕ,15.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286728>
-111,ΚΗ,72.0,20.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA286B48>
-112,ΚΙ,4.0,24.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF570>
-113,ΚΟ,11.0,30.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF4C0>
-114,ΚΡ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF3B8>
-115,ΚΣ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF678>
-116,ΚΥ,2.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFDB0>
-117,ΚΩ,4.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF308>
-118,ΛΑ,367.0,23.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AFCA8>
-119,ΛΕ,14.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF200>
-120,ΛΗ,59.0,18.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF150>
-121,ΛΙ,18.0,21.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2AF2B0>
-122,ΛΛ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245468>
-123,ΛΟ,2.0,15.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245AF0>
-124,ΛΣ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245990>
-125,ΛΥ,3.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245A40>
-126,ΛΦ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245360>
-127,ΛΩ,10.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245780>
-128,ΜΑ,36.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245258>
-129,ΜΒ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2451A8>
-130,ΜΕ,23.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245D00>
-131,ΜΗ,20.0,14.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245DB0>
-132,ΜΙ,1.0,14.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245E08>
-133,ΜΛ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245CA8>
-134,ΜΟ,0.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245C50>
-135,ΜΠ,2.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245BA0>
-136,ΜΥ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245B48>
-137,ΜΨ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2459E8>
-138,ΜΩ,6.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245A98>
-139,ΝΑ,474.0,20.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245938>
-140,ΝΒ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245620>
-141,ΝΓ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2455C8>
-142,ΝΔ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245150>
-143,ΝΕ,32.0,9.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2450F8>
-144,ΝΖ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245048>
-145,ΝΗ,220.0,15.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245E60>
-146,ΝΙ,11.0,19.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245830>
-147,ΝΚ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2453B8>
-148,ΝΝ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245F68>
-149,ΝΟ,3.0,22.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245200>
-150,ΝΣ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2458E0>
-151,ΝΤ,8.0,85.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA245308>
-152,ΝΥ,2.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2840F8>
-153,ΝΩ,17.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284048>
-154,ΞΑ,2.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284150>
-155,ΞΕ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284FC0>
-156,ΞΗ,2.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284E60>
-157,ΞΙ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284F10>
-158,ΞΩ,2.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284DB0>
-159,ΟΒ,1.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284200>
-160,ΟΔ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284780>
-161,ΟΕ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2842B0>
-162,ΟΖ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284360>
-163,ΟΗ,9.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2844C0>
-164,ΟΙ,1.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284570>
-165,ΟΚ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2845C8>
-166,ΟΛ,2.0,9.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284678>
-167,ΟΜ,0.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284728>
-168,ΟΝ,3.0,44.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284D00>
-169,ΟΠ,0.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284830>
-170,ΟΡ,1.0,23.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2848E0>
-171,ΟΣ,4.0,717.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284938>
-172,ΟΤ,0.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284990>
-173,ΟΥ,44.0,27.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284A40>
-174,ΟΦ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284AF0>
-175,ΠΑ,11.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284B48>
-176,ΠΕ,7.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284BF8>
-177,ΠΗ,36.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284C50>
-178,ΠΙ,3.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284410>
-179,ΠΟ,2.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284F68>
-180,ΠΩ,2.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284EB8>
-181,ΡΑ,174.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284E08>
-182,ΡΓ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284D58>
-183,ΡΔ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284CA8>
-184,ΡΕ,14.0,9.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284888>
-185,ΡΖ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2847D8>
-186,ΡΗ,20.0,17.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2846D0>
-187,ΡΙ,13.0,52.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284620>
-188,ΡΚ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284518>
-189,ΡΛ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2843B8>
-190,ΡΝ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284308>
-191,ΡΟ,1.0,24.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA284258>
-192,ΡΡ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2841A8>
-193,ΡΤ,3.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2840A0>
-194,ΡΥ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241F68>
-195,ΡΩ,12.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2412B0>
-196,ΣΑ,154.0,6.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241E60>
-197,ΣΕ,20.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241150>
-198,ΣΗ,8.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2410A0>
-199,ΣΘ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241FC0>
-200,ΣΙ,9.0,15.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241DB0>
-201,ΣΚ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241C50>
-202,ΣΟ,2.0,11.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241AF0>
-203,ΣΤ,1.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241570>
-204,ΣΥ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241F10>
-205,ΣΩ,15.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241EB8>
-206,ΤΑ,282.0,20.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241E08>
-207,ΤΕ,21.0,10.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241D58>
-208,ΤΖ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241CA8>
-209,ΤΗ,72.0,12.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241BF8>
-210,ΤΙ,7.0,42.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241B48>
-211,ΤΛ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241A98>
-212,ΤΟ,5.0,24.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2419E8>
-213,ΤΡ,2.0,4.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241888>
-214,ΤΣ,3.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2417D8>
-215,ΤΤ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241780>
-216,ΤΥ,2.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2416D0>
-217,ΤΩ,19.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241620>
-218,ΥΑ,6.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241938>
-219,ΥΔ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2414C0>
-220,ΥΕ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241308>
-221,ΥΖ,2.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241A40>
-222,ΥΗ,10.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241410>
-223,ΥΘ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241360>
-224,ΥΙ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2413B8>
-225,ΥΚ,0.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241258>
-226,ΥΛ,23.0,9.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2411A8>
-227,ΥΜ,2.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2410F8>
-228,ΥΝ,7.0,5.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241048>
-229,ΥΟ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241990>
-230,ΥΠ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2418E0>
-231,ΥΡ,2.0,11.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241728>
-232,ΥΣ,8.0,28.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA241678>
-233,ΥΤ,0.0,7.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA2415C8>
-234,ΥΦ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2570>
-235,ΦΑ,6.0,3.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2360>
-236,ΦΕ,11.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E20F8>
-237,ΦΗ,6.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2FC0>
-238,ΦΙ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2BF8>
-239,ΦΛ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2E08>
-240,ΦΟ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2830>
-241,ΦΡ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E28E0>
-242,ΦΩ,11.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2780>
-243,ΧΑ,13.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2468>
-244,ΧΕ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E24C0>
-245,ΧΗ,7.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2258>
-246,ΧΙ,2.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2048>
-247,ΧΟ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2AF0>
-248,ΧΡ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2BA0>
-249,ΧΩ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2620>
-250,ΨΩ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2E60>
-251,ΩΑ,1.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E25C8>
-252,ΩΒ,1.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2150>
-253,ΩΕ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E27D8>
-254,ΩΗ,7.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2938>
-255,ΩΛ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2CA8>
-256,ΩΜ,0.0,1.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2990>
-257,ΩΝ,1.0,63.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E26D0>
-258,ΩΡ,0.0,8.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E23B8>
-259,ΩΣ,0.0,2.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA1E2DB0>
-260,ΩΤ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA29E3B8>
-261,ΩΦ,1.0,0.0,<generator object <listcomp>.<genexpr> at 0x000001AFCA29E888>
+,Suffix 2,Female,Male,ASCII 1,ASCII 2
+0,ΑΑ,1.0,2.0,128,128
+1,ΑΒ,0.0,10.0,128,129
+2,ΑΓ,1.0,2.0,128,130
+3,ΑΔ,0.0,2.0,128,131
+4,ΑΕ,0.0,1.0,128,132
+5,ΑΖ,2.0,11.0,128,133
+6,ΑΗ,9.0,1.0,128,134
+7,ΑΙ,6.0,10.0,128,136
+8,ΑΚ,3.0,21.0,128,137
+9,ΑΛ,7.0,23.0,128,138
+10,ΑΜ,6.0,26.0,128,139
+11,ΑΝ,37.0,187.0,128,140
+12,ΑΞ,0.0,1.0,128,141
+13,ΑΟ,0.0,1.0,128,142
+14,ΑΠ,0.0,1.0,128,143
+15,ΑΡ,20.0,36.0,128,144
+16,ΑΣ,10.0,123.0,128,146
+17,ΑΤ,5.0,20.0,128,147
+18,ΑΥ,0.0,2.0,128,148
+19,ΑΦ,1.0,0.0,128,149
+20,ΑΧ,0.0,4.0,128,150
+21,ΒΑ,26.0,8.0,129,128
+22,ΒΕ,2.0,2.0,129,132
+23,ΒΗ,5.0,2.0,129,134
+24,ΒΙ,1.0,6.0,129,136
+25,ΒΡ,0.0,1.0,129,144
+26,ΒΩ,1.0,0.0,129,152
+27,ΓΑ,6.0,0.0,130,128
+28,ΓΓ,2.0,0.0,130,130
+29,ΓΔ,0.0,1.0,130,131
+30,ΓΕ,9.0,0.0,130,132
+31,ΓΗ,7.0,2.0,130,134
+32,ΓΙ,0.0,5.0,130,136
+33,ΓΚ,2.0,11.0,130,137
+34,ΓΟ,0.0,4.0,130,142
+35,ΓΩ,6.0,0.0,130,152
+36,ΔΑ,59.0,4.0,131,128
+37,ΔΕ,5.0,0.0,131,132
+38,ΔΗ,16.0,5.0,131,134
+39,ΔΙ,0.0,4.0,131,136
+40,ΔΟ,1.0,4.0,131,142
+41,ΔΡ,0.0,2.0,131,144
+42,ΔΩ,7.0,1.0,131,152
+43,ΕΑ,31.0,5.0,132,128
+44,ΕΒ,0.0,3.0,132,129
+45,ΕΓ,0.0,1.0,132,130
+46,ΕΔ,0.0,2.0,132,131
+47,ΕΖ,0.0,1.0,132,133
+48,ΕΗ,1.0,0.0,132,134
+49,ΕΘ,4.0,1.0,132,135
+50,ΕΙ,5.0,7.0,132,136
+51,ΕΚ,2.0,3.0,132,137
+52,ΕΛ,16.0,41.0,132,138
+53,ΕΜ,6.0,15.0,132,139
+54,ΕΝ,27.0,45.0,132,140
+55,ΕΞ,0.0,3.0,132,141
+56,ΕΟ,0.0,8.0,132,142
+57,ΕΠ,3.0,1.0,132,143
+58,ΕΡ,18.0,53.0,132,144
+59,ΕΣ,3.0,10.0,132,146
+60,ΕΤ,25.0,42.0,132,147
+61,ΕΥ,1.0,0.0,132,148
+62,ΕΦ,2.0,7.0,132,149
+63,ΕΧ,0.0,1.0,132,150
+64,ΖΑ,31.0,8.0,133,128
+65,ΖΕ,19.0,4.0,133,132
+66,ΖΗ,7.0,6.0,133,134
+67,ΖΙ,5.0,14.0,133,136
+68,ΖΟ,0.0,3.0,133,142
+69,ΖΩ,3.0,0.0,133,152
+70,ΗΑ,0.0,1.0,134,128
+71,ΗΒ,0.0,1.0,134,129
+72,ΗΚ,0.0,2.0,134,137
+73,ΗΛ,1.0,37.0,134,138
+74,ΗΜ,0.0,16.0,134,139
+75,ΗΝ,3.0,8.0,134,140
+76,ΗΠ,0.0,1.0,134,143
+77,ΗΡ,1.0,7.0,134,144
+78,ΗΣ,8.0,382.0,134,146
+79,ΗΤ,0.0,6.0,134,147
+80,ΗΦ,1.0,6.0,134,149
+81,ΗΧ,0.0,1.0,134,150
+82,ΗΩ,1.0,0.0,134,152
+83,ΘΑ,4.0,2.0,135,128
+84,ΘΗ,30.0,2.0,135,134
+85,ΘΙ,0.0,1.0,135,136
+86,ΘΧ,1.0,0.0,135,150
+87,ΘΩ,1.0,0.0,135,152
+88,ΙΑ,616.0,37.0,136,128
+89,ΙΒ,1.0,2.0,136,129
+90,ΙΔ,1.0,5.0,136,131
+91,ΙΕ,84.0,7.0,136,132
+92,ΙΖ,3.0,5.0,136,133
+93,ΙΗ,3.0,0.0,136,134
+94,ΙΙ,0.0,2.0,136,136
+95,ΙΚ,10.0,41.0,136,137
+96,ΙΛ,3.0,28.0,136,138
+97,ΙΜ,3.0,64.0,136,139
+98,ΙΝ,16.0,83.0,136,140
+99,ΙΞ,0.0,2.0,136,141
+100,ΙΟ,4.0,41.0,136,142
+101,ΙΠ,0.0,2.0,136,143
+102,ΙΡ,3.0,42.0,136,144
+103,ΙΣ,24.0,37.0,136,146
+104,ΙΤ,5.0,30.0,136,147
+105,ΙΥ,0.0,2.0,136,148
+106,ΙΦ,2.0,5.0,136,149
+107,ΙΧ,0.0,4.0,136,150
+108,ΙΩ,31.0,2.0,136,152
+109,ΚΑ,125.0,17.0,137,128
+110,ΚΕ,15.0,6.0,137,132
+111,ΚΗ,72.0,20.0,137,134
+112,ΚΙ,4.0,24.0,137,136
+113,ΚΟ,11.0,30.0,137,142
+114,ΚΡ,0.0,1.0,137,144
+115,ΚΣ,0.0,1.0,137,146
+116,ΚΥ,2.0,1.0,137,148
+117,ΚΩ,4.0,0.0,137,152
+118,ΛΑ,367.0,23.0,138,128
+119,ΛΕ,14.0,4.0,138,132
+120,ΛΗ,59.0,18.0,138,134
+121,ΛΙ,18.0,21.0,138,136
+122,ΛΛ,1.0,2.0,138,138
+123,ΛΟ,2.0,15.0,138,142
+124,ΛΣ,0.0,1.0,138,146
+125,ΛΥ,3.0,2.0,138,148
+126,ΛΦ,1.0,0.0,138,149
+127,ΛΩ,10.0,0.0,138,152
+128,ΜΑ,36.0,7.0,139,128
+129,ΜΒ,0.0,1.0,139,129
+130,ΜΕ,23.0,3.0,139,132
+131,ΜΗ,20.0,14.0,139,134
+132,ΜΙ,1.0,14.0,139,136
+133,ΜΛ,0.0,1.0,139,138
+134,ΜΟ,0.0,6.0,139,142
+135,ΜΠ,2.0,10.0,139,143
+136,ΜΥ,1.0,0.0,139,148
+137,ΜΨ,0.0,1.0,139,151
+138,ΜΩ,6.0,1.0,139,152
+139,ΝΑ,474.0,20.0,140,128
+140,ΝΒ,0.0,1.0,140,129
+141,ΝΓ,0.0,1.0,140,130
+142,ΝΔ,0.0,3.0,140,131
+143,ΝΕ,32.0,9.0,140,132
+144,ΝΖ,0.0,1.0,140,133
+145,ΝΗ,220.0,15.0,140,134
+146,ΝΙ,11.0,19.0,140,136
+147,ΝΚ,1.0,2.0,140,137
+148,ΝΝ,1.0,2.0,140,140
+149,ΝΟ,3.0,22.0,140,142
+150,ΝΣ,0.0,4.0,140,146
+151,ΝΤ,8.0,85.0,140,147
+152,ΝΥ,2.0,1.0,140,148
+153,ΝΩ,17.0,2.0,140,152
+154,ΞΑ,2.0,0.0,141,128
+155,ΞΕ,1.0,0.0,141,132
+156,ΞΗ,2.0,1.0,141,134
+157,ΞΙ,1.0,0.0,141,136
+158,ΞΩ,2.0,0.0,141,152
+159,ΟΒ,1.0,5.0,142,129
+160,ΟΔ,1.0,0.0,142,131
+161,ΟΕ,0.0,1.0,142,132
+162,ΟΖ,0.0,3.0,142,133
+163,ΟΗ,9.0,0.0,142,134
+164,ΟΙ,1.0,3.0,142,136
+165,ΟΚ,0.0,4.0,142,137
+166,ΟΛ,2.0,9.0,142,138
+167,ΟΜ,0.0,3.0,142,139
+168,ΟΝ,3.0,44.0,142,140
+169,ΟΠ,0.0,4.0,142,143
+170,ΟΡ,1.0,23.0,142,144
+171,ΟΣ,4.0,717.0,142,146
+172,ΟΤ,0.0,6.0,142,147
+173,ΟΥ,44.0,27.0,142,148
+174,ΟΦ,1.0,0.0,142,149
+175,ΠΑ,11.0,3.0,143,128
+176,ΠΕ,7.0,2.0,143,132
+177,ΠΗ,36.0,4.0,143,134
+178,ΠΙ,3.0,7.0,143,136
+179,ΠΟ,2.0,2.0,143,142
+180,ΠΩ,2.0,0.0,143,152
+181,ΡΑ,174.0,10.0,144,128
+182,ΡΓ,0.0,1.0,144,130
+183,ΡΔ,0.0,1.0,144,131
+184,ΡΕ,14.0,9.0,144,132
+185,ΡΖ,0.0,1.0,144,133
+186,ΡΗ,20.0,17.0,144,134
+187,ΡΙ,13.0,52.0,144,136
+188,ΡΚ,0.0,2.0,144,137
+189,ΡΛ,0.0,1.0,144,138
+190,ΡΝ,0.0,1.0,144,140
+191,ΡΟ,1.0,24.0,144,142
+192,ΡΡ,0.0,1.0,144,144
+193,ΡΤ,3.0,10.0,144,147
+194,ΡΥ,1.0,2.0,144,148
+195,ΡΩ,12.0,0.0,144,152
+196,ΣΑ,154.0,6.0,146,128
+197,ΣΕ,20.0,4.0,146,132
+198,ΣΗ,8.0,5.0,146,134
+199,ΣΘ,1.0,0.0,146,135
+200,ΣΙ,9.0,15.0,146,136
+201,ΣΚ,0.0,2.0,146,137
+202,ΣΟ,2.0,11.0,146,142
+203,ΣΤ,1.0,4.0,146,147
+204,ΣΥ,1.0,0.0,146,148
+205,ΣΩ,15.0,1.0,146,152
+206,ΤΑ,282.0,20.0,147,128
+207,ΤΕ,21.0,10.0,147,132
+208,ΤΖ,0.0,1.0,147,133
+209,ΤΗ,72.0,12.0,147,134
+210,ΤΙ,7.0,42.0,147,136
+211,ΤΛ,0.0,1.0,147,138
+212,ΤΟ,5.0,24.0,147,142
+213,ΤΡ,2.0,4.0,147,144
+214,ΤΣ,3.0,7.0,147,146
+215,ΤΤ,1.0,0.0,147,147
+216,ΤΥ,2.0,0.0,147,148
+217,ΤΩ,19.0,3.0,147,152
+218,ΥΑ,6.0,1.0,148,128
+219,ΥΔ,1.0,1.0,148,131
+220,ΥΕ,1.0,1.0,148,132
+221,ΥΖ,2.0,3.0,148,133
+222,ΥΗ,10.0,1.0,148,134
+223,ΥΘ,1.0,0.0,148,135
+224,ΥΙ,1.0,1.0,148,136
+225,ΥΚ,0.0,5.0,148,137
+226,ΥΛ,23.0,9.0,148,138
+227,ΥΜ,2.0,2.0,148,139
+228,ΥΝ,7.0,5.0,148,140
+229,ΥΟ,1.0,2.0,148,142
+230,ΥΠ,0.0,1.0,148,143
+231,ΥΡ,2.0,11.0,148,144
+232,ΥΣ,8.0,28.0,148,146
+233,ΥΤ,0.0,7.0,148,147
+234,ΥΦ,0.0,2.0,148,149
+235,ΦΑ,6.0,3.0,149,128
+236,ΦΕ,11.0,1.0,149,132
+237,ΦΗ,6.0,1.0,149,134
+238,ΦΙ,1.0,1.0,149,136
+239,ΦΛ,0.0,1.0,149,138
+240,ΦΟ,1.0,2.0,149,142
+241,ΦΡ,1.0,1.0,149,144
+242,ΦΩ,11.0,0.0,149,152
+243,ΧΑ,13.0,1.0,150,128
+244,ΧΕ,1.0,0.0,150,132
+245,ΧΗ,7.0,0.0,150,134
+246,ΧΙ,2.0,1.0,150,136
+247,ΧΟ,1.0,2.0,150,142
+248,ΧΡ,1.0,0.0,150,144
+249,ΧΩ,1.0,0.0,150,152
+250,ΨΩ,1.0,0.0,151,152
+251,ΩΑ,1.0,1.0,152,128
+252,ΩΒ,1.0,2.0,152,129
+253,ΩΕ,0.0,1.0,152,132
+254,ΩΗ,7.0,0.0,152,134
+255,ΩΛ,0.0,2.0,152,138
+256,ΩΜ,0.0,1.0,152,139
+257,ΩΝ,1.0,63.0,152,140
+258,ΩΡ,0.0,8.0,152,144
+259,ΩΣ,0.0,2.0,152,146
+260,ΩΤ,1.0,0.0,152,147
+261,ΩΦ,1.0,0.0,152,149
