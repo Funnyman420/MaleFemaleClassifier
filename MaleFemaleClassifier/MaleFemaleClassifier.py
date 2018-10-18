@@ -25,7 +25,7 @@ def splitToCharacter(dataframe,symb):
 #Clears names with length smaller than or equal to 2. Helps to keep data clean after the method splitToCharacter
 def clearSmallNames (dataframe):
 
-    dataframe = dataframe.drop(data[data.Names.map(len)<2].index)
+    dataframe = dataframe.drop(dataframe[dataframe.Names.map(len)<2].index)
     dataframe = pd.concat(g for _, g in dataframe.groupby('isMale') if len(g)>1)
     
     return dataframe
